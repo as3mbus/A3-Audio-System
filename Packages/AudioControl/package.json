@@ -1,0 +1,15 @@
+{
+    "name": "com.a3.audio",
+    "displayName": "A3 Audio System",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "Manage Audio Playback and channel based on Unity Implementation",
+    "keywords": [
+        "logic",
+        "unity",
+        "audio"
+    ],
+    "category": "Unity",
+    "dependencies": 
+    {}
+}

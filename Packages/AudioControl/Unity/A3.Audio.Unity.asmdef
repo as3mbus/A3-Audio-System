@@ -1,0 +1,15 @@
+{
+    "name": "A3.Audio.Unity",
+    "references": [
+        "A3.Audio",
+        "A3.Utilities"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
